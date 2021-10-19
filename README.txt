@@ -13,7 +13,7 @@ LassySmall 2.5 treebank.
 
 # Acknowledgements
 
-Martha Hofman verifed the lemmas and POS tags of the larger part of the corpus.
+Martha Hofman verified the lemmas and POS tags of the larger part of the corpus.
 
 # References
 
